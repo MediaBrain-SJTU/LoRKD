@@ -1,2 +1,2 @@
 # LoRKD
-# coming soom
+# coming soon
