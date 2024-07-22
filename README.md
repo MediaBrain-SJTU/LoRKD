@@ -2,6 +2,7 @@
 
 
 This repository is an official PyTorch implementation of "Low-Rank Knowledge Decomposition for Medical Foundation Models"
+Note: This is a simple version of the code example, more details will be updated soon.
 
 ### Download Dataset
 
