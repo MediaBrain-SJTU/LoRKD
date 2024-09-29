@@ -2,8 +2,10 @@
 
 
 This repository is an official PyTorch implementation of "Low-Rank Knowledge Decomposition for Medical Foundation Models"
-[Paper]([https://arxiv.org/abs/2404.17184](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Low-Rank_Knowledge_Decomposition_for_Medical_Foundation_Models_CVPR_2024_paper.html))
 
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Low-Rank_Knowledge_Decomposition_for_Medical_Foundation_Models_CVPR_2024_paper.html)
+
+An extended version of our paper can be found in [Arxiv](), and the corresponding code is in this [repo](https://github.com/tdlhl/LoRKD).
 
 Note: This is a simple version of the code example, more details will be updated soon.
 
